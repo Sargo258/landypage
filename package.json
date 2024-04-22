@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "deploy": "gh-pages -d src"
   },
   "keywords": [],
@@ -12,4 +13,11 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+>>>>>>> 3369c93a51277c0d42499095c31c80388b570001
 }
